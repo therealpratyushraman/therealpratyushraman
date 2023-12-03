@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**therealpratyushraman/therealpratyushraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pratyush Raman, a B.Tech student in Bennett University, currently in my 2nd year. 🚀
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in Computer Science and Engineering.
+- 💡 Passionate about Cyber Foreinsics.
+- 🌟 Currently exploring Cyber Security.
+
+## 🔧 Skills
+
+- Programming Languages: Python,Java,C++.
+- Technologies: Django, React.js.
+- Tools: Git, JIRA
+
+## 📚 Education
+
+- **B.Tech in CSE**
+  Bennett University, 2022 - 2026
+
+## 📫 Connect with Me
+
+- LinkedIn: linkedin.com/in/pratyushraman/
+- Email: ramanpratyush28@gmail.com
+
+Feel free to explore my repositories and don't hesitate to reach out! 🚀
