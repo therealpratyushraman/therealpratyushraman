@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Pratyush Raman, a B.Tech student in Bennett University, currently in my 2nd year. 🚀
+I'm Pratyush Raman, a B.Tech student in Bennett University, currently in my 3rd year. 🚀
 
 ## 🌱 About Me
 
