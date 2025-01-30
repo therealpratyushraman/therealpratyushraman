@@ -19,9 +19,4 @@ I'm Pratyush Raman, a B.Tech student in Bennett University, currently in my 3rd 
 - **B.Tech in CSE**
   Bennett University, 2022 - 2026
 
-## 📫 Connect with Me
-
-- LinkedIn: linkedin.com/in/pratyushraman/
-- Email: ramanpratyush28@gmail.com
-
 Feel free to explore my repositories and don't hesitate to reach out! 🚀
